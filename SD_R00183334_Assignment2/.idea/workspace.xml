@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09d1ba3c-1280-4869-97fb-c82e5bbed171" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="3d576cab-6875-4f30-8374-41a356595ffc" />
+  <component name="ProjectId" id="1U5Gq7xstoZSL2XOcu3qgFEOKHW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09d1ba3c-1280-4869-97fb-c82e5bbed171" name="Default Changelist" comment="" />
+      <created>1574639230503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574639230503</updated>
+      <workItem from="1574639236085" duration="2060000" />
+      <workItem from="1574679488552" duration="5260000" />
+      <workItem from="1574855103857" duration="9452000" />
+      <workItem from="1574954784856" duration="17552000" />
+      <workItem from="1575029992114" duration="55711000" />
+      <workItem from="1575458891985" duration="2065000" />
+      <workItem from="1575747392735" duration="2788000" />
+      <workItem from="1575762148262" duration="655000" />
+      <workItem from="1575805945355" duration="1686000" />
+      <workItem from="1577410941926" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="657" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1575470958085">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="196" width="670" height="676" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1575470958085" />
+  </component>
+</project>
